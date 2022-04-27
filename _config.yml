@@ -21,8 +21,8 @@ highlight_theme: "tomorrow-night" # "default" (default), "tomorrow", "tomorrow-n
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Night‘s Watch
-description: > Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. # this means to ignore newlines until "Language & timezone"
-  
+description: >  # this means to ignore newlines until "Language & timezone"
+    Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
 
 
 ## => Language and Timezone
